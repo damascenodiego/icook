@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Minhas Receitas
+title: Diego's kitchen
 url: "https://damascenodiego.github.io/icook/"
 baseurl:
 google_analytics_key:
@@ -17,7 +17,7 @@ author:
   twitter: damascenodiego # twitter username without the @ symbol
   facebook: damascenodiego
 social:
-  name: Diego's kitchen
+  name: Diego's kitchen (Page)
   links:
     - https://github.com/damascenodiego/icook/
 
