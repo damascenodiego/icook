@@ -32,11 +32,11 @@ Uma das primeiras receitas de bolo de banana que preparei com a Kamila.
 
 *Ficou super macio! ☁*
 
-![Macio](/images/banana_cake/banana_cake_smooth.gif)
+![Macio](icook/images/banana_cake/banana_cake_smooth.gif)
 
 *Com mel fica ainda melhor! 🍌🍞🐝*
 
-![Macio](/images/banana_cake/banana_cake_honey.gif)
+![Macio](icook/images/banana_cake/banana_cake_honey.gif)
 
 
 Esta é uma adaptação da receita de [Livia Hasegawa](https://gooutside.com.br/bolo-banana-saudavel/).
