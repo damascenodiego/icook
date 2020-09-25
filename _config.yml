@@ -3,7 +3,7 @@
 
 title: Diego's kitchen
 url: "https://damascenodiego.github.io/icook/"
-baseurl:
+baseurl: "https://damascenodiego.github.io/icook/"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
