@@ -2,7 +2,7 @@
 date: 2017-01-06
 title: Bolo de banana
 categories:
-  - Cake
+  - Cakes
 featured_image: images/banana_cake/banana_cake.jpeg
 recipe:
   servings: 12 fatias
