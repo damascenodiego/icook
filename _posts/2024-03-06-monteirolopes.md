@@ -20,8 +20,8 @@ recipe:
     2. Misturar a castanha triturada, o trigo e a manteiga até obter uma mistura homogenea. 
     3. Montar os biscoitos em forma de "castanha" e assar no forno pré-aquecido por 15-20 minutos.
     4. Aguarde os biscoitos esfriarem.
-    5. Em um copo pequeno, adicionar o cacau em pó na água quente e mexer até dissolver o chocolate por completo. **Dica:** _Dê preferência para copos com diâmetro pequeno para mergulhar o biscoito com mais facilidade na mistura._ 
-    6. Após a mistura de chocolate com água esfriar, mergulhar os biscoito na mistura de chocolate até a metade. Em seguida, empane o biscoito em açucar.
+    5. Em um copo pequeno, adicionar o cacau em pó na água quente e mexer até dissolver o chocolate por completo. **Dica:** _Para facilitar na hora de colocar a cobertura nos biscoitos, use um copo com diâmetro pequeno._ 
+    6. Após a mistura de chocolate com água esfriar, mergulhar os biscoito na mistura de chocolate até a metade e, em seguida, empanar o biscoito em açucar. 
     
 ---
 
