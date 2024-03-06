@@ -26,8 +26,6 @@ recipe:
 Monteiro Lopes é um biscoito preparado em massa delicada e crocante, com cobertura com chocolate empanada em açúcar cristal. 
 É um biscoito típico do Norte do Brasil, mais especificamente de Belém do Pará.
 
-![Biscoito Monteiro Lopes](/icook/images/food/monteiro_lopes.jpeg)
-
 A história popularizada desse doce é dita uma versão paraense da obra Romeu e Julieta, de William Shakespeare...
 
 _Tudo começou em Belém do Pará, em meados do século XIX, onde duas famílias com padarias disputavam a preferência dos clientes que frequentavam o mercado do Ver-o-Peso. De um lado havia o mulato Manuel Monteiro, que conquistava os consumidores do mercado com seu biscoito com camada de chocolate por cima. Do outro, havia o português Antônio Lopes, maior rival de Manuel Monteiro, e que também comercializava no local e agradava a comunidade com o seu famoso biscoito crocante. A disputa entre as famílias era grande, porém os filhos acabaram se apaixonando e casando. Para isso, o casal teve que sair da capital paraense e se casar escondidos na cidade de Cametá. O casamento veio à tona somente após a morte de seus pais e em homenagem a eles e a familia, o casal decidiu unir os doces e batizaram com os sobrenomes de suas famílias, o que a partir dali ficou conhecido como Monteiro Lopes._
