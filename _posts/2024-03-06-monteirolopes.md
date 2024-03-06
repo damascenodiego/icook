@@ -20,9 +20,9 @@ recipe:
     2. Misturar a castanha triturada, o trigo e a manteiga até obter uma mistura homogenea. 
     3. Montar os biscoitos em forma de "castanha" e assar no forno pré-aquecido por 15-20 minutos.
     4. Aguarde os biscoitos esfriarem.
-    5. Em um copo pequeno, adicionar o cacau em pó na água quente e mexer até dissolver o chocolate por completo.
+    5. Em um copo pequeno, adicionar o cacau em pó na água quente e mexer até dissolver o chocolate por completo. **Dica:** _Dê preferência para copos com diâmetro pequeno para mergulhar o biscoito com mais facilidade na mistura._ 
     6. Após a mistura de chocolate com água esfriar, mergulhar os biscoito na mistura de chocolate até a metade. Em seguida, empane o biscoito em açucar.
-    Dica. _Dê preferência para copos com diâmetro pequeno para mergulhar o biscoito com mais facilidade na mistura._ 
+    
 ---
 
 _Esta é uma adaptação das receitas de [Elen da Silva (via Tudo Gostoso)](https://tudogostoso.com.br/receita/61477-biscoitos-monteiro-lopes.html) e [chef Paulo Chaves (via G1 Pará)](https://g1.globo.com/pa/para/e-do-para/noticia/2015/08/pai-e-filha-ensinam-preparar-receita-de-monteiro-lopes-com-castanha.html)._
