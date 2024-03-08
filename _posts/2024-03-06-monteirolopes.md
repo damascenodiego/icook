@@ -7,7 +7,7 @@ featured_image: /images/food/monteiro_lopes.jpeg
 recipe:
   servings: 50 biscoitos
   prep: 15 minutos
-  cook: 40 minutos
+  cook: 20 minutos
   ingredients_markdown: |-
     * 2 xicaras de farinha trigo
     * 1.5 xicara de castanha do pará
