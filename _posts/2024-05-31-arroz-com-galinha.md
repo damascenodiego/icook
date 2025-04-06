@@ -5,7 +5,7 @@ categories:
   - Torta
 # featured_image: /images/food/marinated_egg.jpg
 recipe:
-  servings: 6 eggs
+  # servings: 6 eggs
   cook: 10 minutes
   ingredients_markdown: |-
     * 800g de sobrecoxa de frango
