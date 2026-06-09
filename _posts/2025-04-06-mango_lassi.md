@@ -21,4 +21,4 @@ recipe:
     4. Pour Mango Lassi to serving glasses.
 ---
 
-Fonte: [xx](https://www.indianhealthyrecipes.com/mango-lassi-recipe/#wprm-recipe-container-39830)
+Fonte: [indianhealthyrecipes.com](https://www.indianhealthyrecipes.com/mango-lassi-recipe/#wprm-recipe-container-39830)
