@@ -6,7 +6,7 @@ categories:
 featured_image: /images/food/baiaodedois.jpg
 recipe:
   servings: 6 porções
-  prep: 20 minutos (+ 8-24h de molho do feijão)
+  prep: 26 minutos (+ 8-24h de molho do feijão)
   cook: Instant Pot, alta pressão
   ingredients_markdown: |-
     * 500 g de black eyed beans (feijão fradinho)
@@ -27,13 +27,13 @@ recipe:
   directions_markdown: |-
     0. Deixar feijão de molho por 8-24h, trocando a água a cada 4-8 horas.
     1. Cortar a carne seca em cubos e dessalgar com água quente. Descartar a água.
-    2. Na Instant Pot, cozinhar a carne seca por 10 minutos (alta pressão) com 500 ml de água, deixando a pressão sair naturalmente. Separar dois copos da água da carne seca. Reserve.
+    2. Na Instant Pot, cozinhar a carne seca por 15 minutos (alta pressão) com 500 ml de água, deixando a pressão sair naturalmente. Separar dois copos da água da carne seca. Reserve.
     3. Cortar o bacon em cubos em pedaços pequenos (ou passar no processador, não triturar por completo).
     4. Na mesma Instant Pot, no modo sauté, refogar o bacon com a cebola (sem azeite ou óleo — a gordura do próprio bacon é suficiente). Adicionar a carne seca em seguida.
-    5. Descartar a água do feijão (do molho) e adicioná-lo na Instant Pot, junto com o bacon e a carne seca. Cozinhar por 8-10 minutos (alta pressão) com os dois copos de água da carne seca, completando com água até a altura do feijão.
+    5. Descartar a água do feijão (do molho) e adicioná-lo na Instant Pot, junto com o bacon e a carne seca. Cozinhar por 10 minutos (alta pressão) com os dois copos de água da carne seca, completando com água até a altura do feijão.
     6. Ao término da pressão, coar o feijão com a carne usando uma peneira. Reserve toda a água do cozimento em um recipiente à parte. 
     7. Medir essa água reservada e completar até atingir 800 ml.
-    8. De volta na Instant Pot (vazia), colocar o feijão com carne já coado, o arroz, a cebolinha e a salsinha, a pimenta preta e sichuan moídas, o cominho e a páprica. Misturar bem para distribuir tudo de forma homogênea. Completar a água (do feijão + complemento) na proporção de 1 arroz para 2 de água. Cozinhar por 2 minutos (alta pressão), deixando a pressão sair naturalmente.
+    8. De volta na Instant Pot (vazia), colocar o feijão com carne já coado, o arroz, a cebolinha e a salsinha, a pimenta preta e sichuan moídas, o cominho e a páprica. Misturar bem para distribuir tudo de forma homogênea. Completar a água (do feijão + complemento) na proporção de 1 arroz para 2 de água. Cozinhar por 1 minuto (alta pressão), deixando a pressão sair naturalmente.
     9. Ao final, na mesma Instant Pot no modo sauté (ou em uma frigideira à parte, se preferir), refogar as fatias de queijo coalho (ou halumi) com um fio de azeite e cebolinha até dourar.
 
     Não adicionar sal durante o cozimento — o sal da carne seca já é suficiente. Se sentir falta, ajustar o sal apenas no final.
