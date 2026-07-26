@@ -9,7 +9,7 @@ recipe:
   prep: 20 minutos (+ tempo de descongelamento da polpa)
   cook: Sem cozimento (gelar na geladeira)
   ingredients_markdown: |-
-    * 600 g de polpa de cupuaçu
+    * 500 g de polpa de cupuaçu
     * 1 lata de leite condensado (395 g)
     * 2 caixas de creme de leite, 200 ml cada (Usei o AH slagroom 30% vet)
     * 1 caixa de biscoito champagne (ladyfingers)
