@@ -1,9 +1,9 @@
 ---
 date: 2026-08-05
-title: Sopa de espinafre com ovo
+title: Caldo de espinafre
 categories:
 - Sopa
-featured_image: /images/food/sopadeespinafrecomovo.jpg
+featured_image: /images/food/caldo_espinafre.jpg
 recipe:
   servings: 2 porções
   prep: menos de 15 minutos

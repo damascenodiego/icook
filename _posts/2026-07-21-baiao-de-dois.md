@@ -3,7 +3,7 @@ date: 2026-07-21
 title: Baião de dois
 categories:
 - Prato único
-featured_image: /images/food/baiaodedois.jpg
+featured_image: /images/food/baiao_de_dois.jpg
 recipe:
   servings: 6 porções
   prep: 26 minutos (+ 8-24h de molho do feijão)

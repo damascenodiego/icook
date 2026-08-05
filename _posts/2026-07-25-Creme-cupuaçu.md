@@ -3,7 +3,7 @@ date: 2026-07-25
 title: Creme de cupuaçu
 categories:
 - Sobremesa
-featured_image: /images/food/cremedecupuacu.jpg
+featured_image: /images/food/creme_cupuacu.jpg
 recipe:
   servings: 10 porções
   prep: 20 minutos (+ tempo de descongelamento da polpa)
