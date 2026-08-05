@@ -3,7 +3,7 @@ date: 2024-05-31
 title: Arroz com Galinha
 categories:
   - Torta
-# featured_image: /images/food/marinated_egg.jpg
+featured_image: /images/food/arroz_com_galinha.jpeg
 recipe:
   # servings: 6 eggs
   cook: 10 minutes
