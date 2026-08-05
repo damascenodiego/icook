@@ -13,9 +13,9 @@ recipe:
     * 200 g de espinafre
     * 1 cebola
     * 1 dente de alho
-    * 1 colher (sopa) de margarina líquida
+    * 1 colher (sopa) de margarina
     * pimenta-do-reino
-    * 450 ml de caldo de cozimento de frango (pode substituir por 300 ml de água + 1/4 de tablete de caldo de legumes)
+    * 450 ml de caldo de cozimento de frango (pode substituir por 450 ml de água + 1/4 de tablete de caldo de legumes, frango, ou carne)
     * 2 fatias de pão, torradas (para os croutons)
   directions_markdown: |-
     1. Cozinhar os ovos por 8-10 minutos até ficarem duros.
