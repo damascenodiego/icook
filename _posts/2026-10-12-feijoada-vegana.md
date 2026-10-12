@@ -27,8 +27,8 @@ recipe:
     3. Picar finamente a cebola e o alho, e dividir cada um em duas porções iguais. Cortar a batata em pedaços pequenos.
     4. Na panela da Instant Pot, no modo sauté, refogar metade da cebola e metade do alho com um fio de azeite.
     5. Adicionar o feijão, a batata e o louro, e cobrir com água, sem sal. Cozinhar por 30 minutos em alta pressão.
-    6. Enquanto isso, cortar os cogumelos em pedaços pequenos. Numa frigideira grande, fritar o tofu marinado (reservando o shoyu da marinada) em fogo médio a alto, com um bom fio de azeite, até dourar. Acrescentar os cogumelos e a outra metade da cebola e do alho, e fritar por mais 2 a 3 minutos. Temperar com a páprica defumada e, se quiser, um pouco do shoyu reservado.
-    7. Ao final da pressão, com um mixer de mão, processar a batata junto com um pouco do feijão na própria panela, para deixar o caldo cremoso.
+    6. Enquanto isso, cortar os cogumelos em pedaços pequenos. Numa frigideira grande, fritar o tofu marinado (reservando o shoyu da marinada) em fogo médio a alto, com um bom fio de azeite, até dourar. Acrescentar os cogumelos e a outra metade da cebola e do alho, e fritar por mais 2 a 3 minutos. Temperar com a páprica defumada e o shoyu reservado.
+    7. Ao final da pressão, com um mixer de mão, processar a batata junto com um pouco do feijão para deixar o caldo cremoso.
     8. Juntar o conteúdo da frigideira ao feijão e deixar apurar por alguns minutos, sem tampa. Acertar o sal e a pimenta.
 ---
 
