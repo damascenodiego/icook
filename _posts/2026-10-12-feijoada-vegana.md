@@ -11,7 +11,7 @@ recipe:
   ingredients_markdown: |-
     * 500 g de feijão preto seco
     * 1 batata média (aprox. 150 g)
-    * 300 g de tofu defumado
+    * 300 g de tofu firme (normal)
     * 300 g de cogumelos (por exemplo, king oyster)
     * 1 cebola picada
     * 2 dentes de alho picados
@@ -23,7 +23,7 @@ recipe:
     * água (o suficiente para cobrir o feijão)
   directions_markdown: |-
     1. Deixar o feijão preto de molho em bastante água por pelo menos 8 horas (ou de um dia para o outro). Escorrer antes de usar.
-    2. Cortar o tofu defumado em pedaços pequenos e deixar marinando no shoyu enquanto o feijão cozinha (mínimo de 30 minutos), mexendo de vez em quando.
+    2. Cortar o tofu em pedaços pequenos e deixar marinando no shoyu enquanto o feijão cozinha (mínimo de 30 minutos), mexendo de vez em quando.
     3. Picar finamente a cebola e o alho, e dividir cada um em duas porções iguais. Cortar a batata em pedaços pequenos.
     4. Na panela da Instant Pot, no modo sauté, refogar metade da cebola e metade do alho com um fio de azeite.
     5. Adicionar o feijão, a batata e o louro, e cobrir com água, sem sal. Cozinhar por 30 minutos em alta pressão.
@@ -33,12 +33,12 @@ recipe:
 ---
 
 Versão vegana da feijoada, prato nacional brasileiro. No lugar das carnes
-tradicionais, entram tofu defumado marinado no shoyu, cogumelos e batata, que
-dão ao feijão preto um sabor intenso e defumado, reforçado pela páprica
-defumada. O feijão e a batata são cozidos juntos na Instant Pot, e a batata é
-processada com um pouco do feijão para deixar o caldo cremoso. O tofu e os
-cogumelos são dourados à parte, com a outra metade da cebola e do alho, e
-incorporados no final.
+tradicionais, entram tofu marinado no shoyu, cogumelos e batata, que dão ao
+feijão preto um sabor intenso, com o toque defumado vindo da páprica. O feijão
+e a batata são cozidos juntos na Instant Pot, e a batata é processada com um
+pouco do feijão para deixar o caldo cremoso. O tofu e os cogumelos são
+dourados à parte, com a outra metade da cebola e do alho, e incorporados no
+final.
 
 ![Feijoada vegana](/icook/images/food/feijoadavegana.jpg)
 
